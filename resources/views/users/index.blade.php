@@ -15,6 +15,7 @@
     <body>
     <div class="container pt-3">
         <div class="row">
+            
             <div class="col-sm-8 mx-auto">
                 <div class="card border-0 shadow">
                     <div class="card-body">
@@ -75,6 +76,7 @@
             </div>
         </div>
     </div>
+    
     </body>
     
 </html>
